@@ -4,7 +4,30 @@
 <p align="center">
     <em>FastAPI framework, high performance, easy to learn, fast to code, ready for production</em>
 </p>
-
+<p align="center">
+  <a href="https://www.postgresql.org/"><img src="https://github.com/AngelStoev88/FASTApi_AWS_Project/blob/main/utils/postgres-logo-1.png" alt="postgres"></a>
+</p>
+<p align="center">
+    <em>PostgreSQL: The World's Most Advanced Open Source Relational Database</em>
+</p>
+<p align="center">
+  <a href="https://www.sqlalchemy.org/"><img src="https://github.com/AngelStoev88/FASTApi_AWS_Project/blob/main/utils/connect-a-flask-app-to-a-mysql-database-with-sqlalchemy-and-pymysql.jpg" alt="alchemy"></a>
+</p>
+<p align="center">
+    <em>The Python SQL Toolkit and Object Relational Mapper</em>
+</p>
+<p align="center">
+  <a href="https://wise.com/"><img src="https://github.com/AngelStoev88/FASTApi_AWS_Project/blob/main/utils/wise.jpg" alt="wise"></a>
+</p>
+<p align="center">
+    <em>Money for here, there and everywhere</em>
+</p>
+<p align="center">
+  <a href="https://aws.amazon.com/"><img src="https://github.com/AngelStoev88/FASTApi_AWS_Project/blob/main/utils/800px-Amazon_Web_Services_Logo.svg.png" alt="aws"></a>
+</p>
+<p align="center">
+    <em>AWS</em>
+</p>
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.
 
 The key features are:
@@ -17,46 +40,7 @@ The key features are:
 * **Short**: Minimize code duplication. Multiple features from each parameter declaration. Fewer bugs.
 * **Robust**: Get production-ready code. With automatic interactive documentation.
 * **Standards-based**: Based on (and fully compatible with) the open standards for APIs: <a href="https://github.com/OAI/OpenAPI-Specification" class="external-link" target="_blank">OpenAPI</a> (previously known as Swagger) and <a href="https://json-schema.org/" class="external-link" target="_blank">JSON Schema</a>.
-## Opinions
 
-## Requirements
-
-Python 3.7+
-FastAPI stands on the shoulders of giants:
-* <a href="https://www.starlette.io/" class="external-link" target="_blank">Starlette</a> for the web parts.
-* <a href="https://pydantic-docs.helpmanual.io/" class="external-link" target="_blank">Pydantic</a> for the data parts.
-## Installation
-
-<div class="termy">
-
-```console
-
-$ pip install fastapi
-
----> 100%
-```
-
-</div>
-
-You will also need an ASGI server, for production such as <a href="https://www.uvicorn.org" class="external-link" target="_blank">Uvicorn</a> or <a href="https://github.com/pgjones/hypercorn" class="external-link" target="_blank">Hypercorn</a>.
-
-<div class="termy">
-
-```console
-
-$ pip install "uvicorn[standard]"
-
----> 100%
-```
-</div>
-
-
-You already created an API that:
-
-* Receives HTTP requests in the _paths_ `/` and `/items/{item_id}`.
-* Both _paths_ take `GET` <em>operations</em> (also known as HTTP _methods_).
-* The _path_ `/items/{item_id}` has a _path parameter_ `item_id` that should be an `int`.
-* The _path_ `/items/{item_id}` has an optional `str` _query parameter_ `q`.
 
 ### Interactive API docs
 
