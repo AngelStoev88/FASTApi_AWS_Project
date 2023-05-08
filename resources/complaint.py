@@ -3,7 +3,7 @@ from typing import List
 from fastapi import APIRouter, Depends
 from starlette.requests import Request
 
-from managers.auth import oauth2_scheme, is_complainer, is_admin
+from managers.auth import oauth2_scheme, is_complainer, is_admin, is_approver
 from managers.complaint import ComplaintManager
 from schemas.request.complaint import ComplaintIn
 from schemas.response.complaint import ComplaintOut
