@@ -1,29 +1,29 @@
 <p align="center">
-  <a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="800" height="290"></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="500" height="190"></a>
 </p>
 <p align="center">
     <em>FastAPI framework, high performance, easy to learn, fast to code, ready for production</em>
 </p>
 <p align="center">
-  <a href="https://www.postgresql.org/"><img src="https://github.com/AngelStoev88/FASTApi_AWS_Project/blob/main/utils/postgres-logo-1.png" width="800" height="290"></a>
+  <a href="https://www.postgresql.org/"><img src="https://github.com/AngelStoev88/FASTApi_AWS_Project/blob/main/utils/postgres-logo-1.png" width="500" height="190"></a>
 </p>
 <p align="center">
     <em>PostgreSQL: The World's Most Advanced Open Source Relational Database</em>
 </p>
 <p align="center">
-  <a href="https://www.sqlalchemy.org/"><img src="https://github.com/AngelStoev88/FASTApi_AWS_Project/blob/main/utils/connect-a-flask-app-to-a-mysql-database-with-sqlalchemy-and-pymysql.jpg" alt="alchemy" width="800" height="290"></a>
+  <a href="https://www.sqlalchemy.org/"><img src="https://github.com/AngelStoev88/FASTApi_AWS_Project/blob/main/utils/connect-a-flask-app-to-a-mysql-database-with-sqlalchemy-and-pymysql.jpg" alt="alchemy" width="500" height="190"></a>
 </p>
 <p align="center">
     <em>The Python SQL Toolkit and Object Relational Mapper</em>
 </p>
 <p align="center">
-  <a href="https://wise.com/"><img src="https://github.com/AngelStoev88/FASTApi_AWS_Project/blob/main/utils/wise.jpg" alt="wise" width="800" height="290"></a>
+  <a href="https://wise.com/"><img src="https://github.com/AngelStoev88/FASTApi_AWS_Project/blob/main/utils/wise.jpg" alt="wise" width="500" height="190"></a>
 </p>
 <p align="center">
     <em>Money for here, there and everywhere</em>
 </p>
 <p align="center">
-  <a href="https://aws.amazon.com/"><img src="https://github.com/AngelStoev88/FASTApi_AWS_Project/blob/main/utils/800px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="800" height="290"></a>
+  <a href="https://aws.amazon.com/"><img src="https://github.com/AngelStoev88/FASTApi_AWS_Project/blob/main/utils/800px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="500" height="190"></a>
 </p>
 <p align="center">
     <em>AWS</em>
