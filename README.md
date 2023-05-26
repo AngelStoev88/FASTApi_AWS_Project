@@ -1,3 +1,6 @@
+![Complete FastAPI REST course + AWS + Emails + Payments](https://github.com/AngelStoev88/FASTApi_AWS_Project/blob/main/UC-40f21062-440f-4686-9e0f-1c26a2d0b002.jpg)
+
+
 <p align="center">
   <a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="500" height="190"></a>
 </p>
